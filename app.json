@@ -1,0 +1,13 @@
+{
+  "name": "mima-poker-app",
+  "displayName": "mima-poker-app",
+  "expo": {
+    "name": "mima-poker-app",
+    "slug": "mima-poker-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "assets/images/*",
+      "assets/fonts/*"
+    ]
+  }
+}
