@@ -1,0 +1,80 @@
+export default [
+  {
+    name: 'Vakho',
+    position: 'Frontend',
+    department: 'Software Development',
+    status: 'Pending',
+  },
+  {
+    name: 'Gio',
+    position: 'Frontend',
+    department: 'Software Development',
+    status: 'Fill In',
+  },
+  {
+    name: 'Giorgi',
+    position: 'Backend',
+    department: 'Software Development',
+    status: 'Confirmed',
+  },
+  {
+    name: 'Mari',
+    position: 'Processes',
+    department: 'Process Management',
+    status: 'Pending',
+  },
+  {
+    name: 'Tina',
+    position: 'HR',
+    department: 'HR',
+    status: 'Fill In',
+  },
+  {
+    name: 'Elene',
+    position: 'HR',
+    department: 'HR',
+    status: 'Confirmed',
+  },
+  {
+    name: 'Name',
+    position: 'HR',
+    department: 'HR',
+    status: 'Rejected',
+  },
+  {
+    name: 'Beno',
+    position: 'Gaming Operations',
+    department: 'Gaming Operations',
+    status: 'Confirmed',
+  },
+  {
+    name: 'Archil',
+    position: 'Gaming Operations',
+    department: 'Gaming Operations',
+    status: 'Pending',
+  },
+  {
+    name: 'Vladimer',
+    position: 'Director',
+    department: 'Process Management',
+    status: 'Pending',
+  },
+  {
+    name: 'Sergi',
+    position: 'Frontend Developer',
+    department: 'Software Development',
+    status: 'Rejected',
+  },
+  {
+    name: 'Tato',
+    position: 'Game Developer',
+    department: 'Software Development',
+    status: 'Rejected',
+  },
+  {
+    name: 'Dokera',
+    position: 'Full Stack Developer',
+    department: 'Software Development',
+    status: 'Confirmed',
+  },
+];
